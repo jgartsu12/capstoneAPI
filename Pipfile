@@ -10,6 +10,9 @@ django = "*"
 djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
+coreapi = "*"
+pygments = "*"
+django-guardian = "*"
 
 [requires]
 python_version = "3.8"
